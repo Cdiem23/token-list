@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "7rp3LgWTLTHZtHQSkuXAGpCAg4egREpCg1QVftwbQyBb",
+  "symbol": "CDIEM",
+  "name": "Carpe Diem Coin",
+  "decimals": 9,
+  "logoURI": "https://ipfs.io/ipfs/bafkreifesgqvqeeqv3qxu7jt65ecixwrp3u6bktp7h6nhet37sdhbolp5q",
+  "tags": ["membership", "ai"],
+  "extensions": {
+    "website": "https://jouwwebsite.com",
+    "twitter": "https://twitter.com/jouwproject",
+    "description": "Carpe Diem Coin (CDIEM) geeft toegang tot Carpe Diem’s AI- en Game platform en fungeert als membership token."
+  }
+}
