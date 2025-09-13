@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "2MajuGuh6cQvcEqsin3ivE856zjA7zYZnzwQCQJeMFbF",
+  "symbol": "HBADGER",
+  "name": "Honey Badger Coin",
+  "decimals": 9,
+  "logoURI": "https://ipfs.io/ipfs/bafkreifowbye4ldsrkjqdkfnovpnwart4rvohwzs6mliwv6gk6twzeasuy",
+  "tags": ["utility-token", "game"],
+  "extensions": {
+    "website": "https://jouwwebsite.com",
+    "twitter": "https://twitter.com/jouwproject",
+    "description": "Honey Badger Coin (HBADGER) is de utility token voor betalingen binnen Carpe Diem’s AI & Game platform."
+  }
+}
